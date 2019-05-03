@@ -20,7 +20,7 @@ networks: {
 ```
 
 #### Quantity of Tokens available
-In migrations\2_deply_contracts.js, you can set the maximum available tokens available in our model. Here's the declaration of 1,000,000 TTS:
+In migrations\2_deply_contracts.js, you can set the maximum tokens available in our model. Here's the declaration of 1,000,000 TTS:
 ```javascript
 var TuttusToken = artifacts.require("./TuttusToken.sol");
 
